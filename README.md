@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andi-ramadhan
 - 👀 I’m interested in IT and Programming
-- 🌱 Growing Backend Developer
+- 🌱 Growing Software Developer
 - 💞️ I’m casually looking to collaborate on GitHub
 - 📫 You can reach me by:
     - DM's
