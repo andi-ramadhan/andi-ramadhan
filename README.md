@@ -7,7 +7,7 @@
     - Email: ramadhanfajar.ara@gmail.com
     - LinkedIn: https://www.linkedin.com/in/andi-fajar-ramadhan
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Actually I'm in progress of switching my career from IT Support Specialist to Developer Role (especially Backend Developer).
+- ⚡ Fun fact: Love drawing illustration (2D Digital/Traditional) and writing story
 
 <!---
 andi-ramadhan/andi-ramadhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
