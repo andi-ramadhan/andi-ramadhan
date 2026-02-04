@@ -1,7 +1,7 @@
 👋 Hi, I’m @andi-ramadhan\
 👀 I’m interested in IT and Programming\
 🌱 Growing Software Developer\
-💞️ I’m casually looking to collaborate on GitHub\
+💞️ I’m looking for any opportunities\
 📫 Email: ramadhanfajar.ara@gmail.com\
 😄 Pronouns: He/Him\
 ⚡ Fun fact: Love drawing illustration (2D Digital/Traditional) and writing story
